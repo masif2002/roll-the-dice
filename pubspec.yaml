@@ -1,5 +1,5 @@
-name: first_app
-description: A new Flutter project.
+name: roll_the_dice
+description: A beginner project to kickstart the journey of learning Flutter.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
